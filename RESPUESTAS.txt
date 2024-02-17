@@ -1,0 +1,4 @@
+Punto 10
+¿Analizando el esquema de funcionamiento de la simulación, esto podría crear una condición de carrera? 
+	• El invariante de "health" ya que en cada pelea que se efectua esta se 
+	  ve intenta ver alterada por los ataques en simultaneo.
